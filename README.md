@@ -144,7 +144,7 @@ A Multiple Linear Regression model was built using marketing spend channels as i
 
 The model estimates the relationship between marketing spend and sales using the following equation:
 
-Sales = \beta_0 + \beta_1(TV) + \beta_2(Radio) + \beta_3(SocialMedia) + \beta_4(SearchAds) + \beta_5(Influencer)
+Sales = β₀ +  β₁(TV) +  β2(Radio) +  β3(SocialMedia) +  β4(SearchAds) + β₅(Influencer)
 
 Where:
 
