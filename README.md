@@ -548,11 +548,7 @@ Market-Basket-Analysis/
 # How to Run the Project
 
 ## Step 1: Clone Repository
-
-```bash
-git clone [<repository-link>](https://github.com/TaranpreetKaur06/Market-Basket-Analysis)
-```
-
+---
 ---
 
 ## Step 2: Install Required Libraries
@@ -568,7 +564,7 @@ pip install -r requirements.txt
 Open:
 
 ```bash
-Market_Basket_Analysis.ipynb
+Market_Budget_Optimization.ipynb
 ```
 
 ---
